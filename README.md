@@ -17,3 +17,4 @@ File yg dipakai :
 
 format tanpa https / http, karena di JS mencoba https klo gagal ke http.
 
+Run dengan cara : node main.js
