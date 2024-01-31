@@ -1,0 +1,60 @@
+=======
+URL: carrier.webex.com
+Title: DNS resolution error | carrier.webex.com | Cloudflare
+Content: Error 1001 Ray ID: 84e00b0fdcf2a11e • 2024-01-31 06:54:25 UTC
+DNS resolution error
+What happened?
+
+You've requested a page on a website (carrier.webex.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (carrier.webex.com). There are two potential causes of this:
+
+Most likely: if the owner just signed up for Cloudflare it can take a few minutes for the website's information to be distributed to our global network.
+Less likely: something is wrong with this site's configuration. Usually this happens when accounts have been signed up with a partner organization (e.g., a hosting provider) and the provider's DNS fails.
+Was this page helpful? Yes No
+
+Cloudflare Ray ID: 84e00b0fdcf2a11e • Your IP: Click to reveal • Performance & security by Cloudflare
+=======
+URL: google.co.id
+Title: Google
+Content: GmailGambar
+Login
+ 
+Google tersedia dalam bahasa: English Basa Bali
+Indonesia
+Tentang
+Periklanan
+Bisnis
+Cara kerja Penelusuran
+Privasi
+Persyaratan
+Setelan
+=======
+=======
+URL: carrier.webex.com
+Title: DNS resolution error | carrier.webex.com | Cloudflare
+Content: Error 1001 Ray ID: 84e00fb53e6c3e1a • 2024-01-31 06:57:35 UTC
+DNS resolution error
+What happened?
+
+You've requested a page on a website (carrier.webex.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (carrier.webex.com). There are two potential causes of this:
+
+Most likely: if the owner just signed up for Cloudflare it can take a few minutes for the website's information to be distributed to our global network.
+Less likely: something is wrong with this site's configuration. Usually this happens when accounts have been signed up with a partner organization (e.g., a hosting provider) and the provider's DNS fails.
+Was this page helpful? Yes No
+
+Cloudflare Ray ID: 84e00fb53e6c3e1a • Your IP: Click to reveal • Performance & security by Cloudflare
+=======
+URL: google.co.id
+Title: Google
+Content: GmailGambar
+Login
+ 
+Google tersedia dalam bahasa: English Basa Bali
+Indonesia
+Tentang
+Periklanan
+Bisnis
+Cara kerja Penelusuran
+Privasi
+Persyaratan
+Setelan
+=======
